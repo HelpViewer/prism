@@ -13,4 +13,7 @@ pre[class*="language-"] {
   span .token {
     background-color: transparent;
   }
-  
+
+.token.operator {
+  background-color: transparent;
+}
